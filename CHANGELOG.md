@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/ashblue/unity-event-plus/compare/v1.0.0...v1.1.0) (2019-08-21)
+
+
+### Features
+
+* added missing event plus generics ([587b07d](https://github.com/ashblue/unity-event-plus/commit/587b07d))
+
 # 1.0.0 (2019-08-21)
 
 
