@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/ashblue/unity-event-plus/compare/v1.1.0...v1.1.1) (2019-10-06)
+
+
+### Bug Fixes
+
+* added missing clear event method ([897fb74](https://github.com/ashblue/unity-event-plus/commit/897fb74))
+
 # [1.1.0](https://github.com/ashblue/unity-event-plus/compare/v1.0.0...v1.1.0) (2019-08-21)
 
 
