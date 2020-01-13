@@ -1,6 +1,7 @@
 using UnityEngine.Events;
 
 namespace CleverCrow.Fluid.Utilities.UnityEvents {
+    [System.Serializable]
     public class UnityEventPlus : UnityEvent, IUnityEvent {
     }
 
